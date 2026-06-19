@@ -27,4 +27,4 @@ The frontend then filters the product list to show only recommended items.
 
 ## Deployment (Vercel)
 
-See the Deployment Guide below.
+vercel Link : https://ai-product-recommender-pqjjt1kv6-gunjan4.vercel.app/
